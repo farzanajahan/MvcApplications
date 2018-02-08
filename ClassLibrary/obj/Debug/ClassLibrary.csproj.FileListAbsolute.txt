@@ -1,0 +1,37 @@
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\dotnetprojects\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Debug\departments.csv
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\bin\Debug\departments.csv
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.pdb

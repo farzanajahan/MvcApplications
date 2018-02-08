@@ -1,0 +1,8 @@
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Release\departments.csv
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Release\ClassLibrary.dll.config
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\ClassLibrary\obj\Release\ClassLibrary.pdb

@@ -1,0 +1,136 @@
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.dll.config
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.pdb
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\Antlr3.Runtime.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\EntityFramework.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\Newtonsoft.Json.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Net.Http.Formatting.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Http.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Http.WebHost.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Mvc.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Optimization.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Providers.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Razor.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\WebGrease.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\EntityFramework.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\Newtonsoft.Json.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Net.Http.Formatting.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Http.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Http.WebHost.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Mvc.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Razor.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.pdb
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\ClassLibrary.dll
+C:\dotnetprojects\testwebsites\MvcApplication\MvcApplication\bin\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.dll.config
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\MvcApplication.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\Antlr3.Runtime.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\EntityFramework.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Mvc.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Optimization.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Providers.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Razor.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\WebGrease.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\EntityFramework.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Mvc.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.Razor.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.dll
+C:\Users\astellav\Documents\src\testwebsites\MvcApplication\MvcApplication\obj\Debug\MvcApplication.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\obj\Debug\MvcApplication.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\obj\Debug\MvcApplication.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\departments.csv
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\MvcApplication.dll.config
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\MvcApplication.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\MvcApplication.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\Antlr3.Runtime.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\ClassLibrary.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\EntityFramework.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Mvc.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Optimization.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Providers.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Razor.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\WebGrease.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\ClassLibrary.pdb
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\EntityFramework.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Mvc.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Razor.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Http.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\ClassLibrary.dll.config
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Http.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\astellav\Documents\src\testwebsites_2\MvcApplication\MvcApplication\obj\Debug\MvcApplication.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\departments.csv
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\MvcApplication.dll.config
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\MvcApplication.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\MvcApplication.pdb
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\Antlr3.Runtime.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\EntityFramework.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\Newtonsoft.Json.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Net.Http.Formatting.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Http.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Http.WebHost.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Mvc.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Optimization.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Providers.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Razor.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.Razor.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\WebGrease.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\ClassLibrary.dll.config
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\EntityFramework.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\Newtonsoft.Json.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Net.Http.Formatting.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Http.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Http.WebHost.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Mvc.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.Razor.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\bin\System.Web.WebPages.Razor.xml
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\obj\Debug\MvcApplication.csprojResolveAssemblyReference.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\obj\Debug\MvcApplication.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\obj\Debug\MvcApplication.dll
+D:\Management\Custom migration\MvcApplication\MvcApplications\MvcApplication\obj\Debug\MvcApplication.pdb

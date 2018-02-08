@@ -25,9 +25,11 @@ namespace MvcApplication.Controllers
             Response.Write("<br/>");
             Response.Write("extensionAttribute13=" + result.ExtensionAttribute13);*/
 
-            
+
             Response.Redirect("/departments");                            
         }
+
+        
 
     }
 }

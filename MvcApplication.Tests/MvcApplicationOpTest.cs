@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MvcApplication.Controllers;
+using ClassLibrary;
 
 namespace MvcApplication.Tests
 {
@@ -10,11 +11,10 @@ namespace MvcApplication.Tests
         [TestMethod]
         public void positive()
         {
-            AuthenticateController DC = new AuthenticateController();
-            //Act
-         
-            bool result = DC.logon2("sivaravula", "Bahubali2");
-
+            //AuthenticateController DC = new AuthenticateController();
+            var result = Authenticator.Authenticate("sivaravula", "Bahubali2").Error;
+       
+            
             //Assert
             Assert.AreEqual(false, result);
         }
@@ -22,13 +22,13 @@ namespace MvcApplication.Tests
         [TestMethod]
         public void negative()
     {
-        AuthenticateController DC = new AuthenticateController();
+        
         //Act
 
-        bool result = DC.logon2("sivaravula", "Baubali2");
+        bool result = Authenticator.Authenticate("sivaravula", "Bahubali").Error;
 
-        //Assert
-        Assert.AreEqual(true, result);
+            //Assert
+            Assert.AreEqual(true, result);
     }
 }
 

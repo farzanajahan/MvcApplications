@@ -35,3 +35,11 @@ D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\D
 D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\Management\Custom migration\MvcApplication\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\bin\Debug\departments.csv
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.pdb

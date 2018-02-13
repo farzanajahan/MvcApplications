@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-    <form method="post" action="authenticate/logon">
+    <form method="post" action="<%=Url.Action("logon", "authenticate") %>">
         User ID: <input type="text" name="userId" /><br />
         Password: <input type="password" name="password" /><br />
         <input type="submit" value="Log On" />

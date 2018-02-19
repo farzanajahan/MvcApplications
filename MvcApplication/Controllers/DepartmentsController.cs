@@ -19,5 +19,17 @@ namespace MvcApplication.Controllers
             return View("DepartmentsView", Department.LoadFromFile(Server.MapPath("departments.csv")));
         }
 
+        public ActionResult TestView(int id)
+        {
+
+            return View("DepartmentsView");
+        }
+
+        public ActionResult TestDepartment(string path)
+        {
+
+            return View("DepartmentsView", Department.LoadFromFile(path));
+        }
+
     }
 }

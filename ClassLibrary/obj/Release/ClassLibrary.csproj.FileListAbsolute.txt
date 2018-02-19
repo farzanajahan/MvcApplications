@@ -14,3 +14,11 @@ C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Release\Clas
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.dll
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Release\departments.csv
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Release\ClassLibrary.dll.config
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Release\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Release\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Release\ClassLibrary.pdb

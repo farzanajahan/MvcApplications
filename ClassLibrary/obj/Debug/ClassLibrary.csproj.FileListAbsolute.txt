@@ -43,3 +43,11 @@ C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassL
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\farzanajahan\source\repos\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Debug\departments.csv
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplications\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Management\Custom migration\MvcApplications\ClassLibrary\obj\Debug\ClassLibrary.pdb

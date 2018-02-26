@@ -26,7 +26,7 @@
 
     <div>
         <table>
-            <tr><td> Department Name</td></tr>
+            <tr><td> Global Department Name</td></tr>
         <% foreach (var item in (Model as List<ClassLibrary.Department>)) { %> 
 
             <tr><td onclick="toggleView();">

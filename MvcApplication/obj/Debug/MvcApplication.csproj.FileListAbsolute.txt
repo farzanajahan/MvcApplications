@@ -208,3 +208,4 @@ D:\Management\Custom migration\MvcApplications\MvcApplication\obj\Debug\MvcAppli
 D:\Management\Custom migration\MvcApplications\MvcApplication\obj\Debug\MvcApplication.csproj.CoreCompileInputs.cache
 D:\Management\Custom migration\MvcApplications\MvcApplication\obj\Debug\MvcApplication.dll
 D:\Management\Custom migration\MvcApplications\MvcApplication\obj\Debug\MvcApplication.pdb
+D:\Management\Custom migration\MvcApplications\MvcApplication\obj\Debug\MvcApplication.csproj.CopyComplete

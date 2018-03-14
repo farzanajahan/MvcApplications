@@ -162,3 +162,4 @@ D:\Management\Custom migration\MvcApplications\MvcApplication.Tests\obj\Debug\Mv
 D:\Management\Custom migration\MvcApplications\MvcApplication.Tests\obj\Debug\MvcApplication.Tests.csproj.CoreCompileInputs.cache
 D:\Management\Custom migration\MvcApplications\MvcApplication.Tests\obj\Debug\MvcApplication.Tests.dll
 D:\Management\Custom migration\MvcApplications\MvcApplication.Tests\obj\Debug\MvcApplication.Tests.pdb
+D:\Management\Custom migration\MvcApplications\MvcApplication.Tests\obj\Debug\MvcApplication.Tests.csproj.CopyComplete

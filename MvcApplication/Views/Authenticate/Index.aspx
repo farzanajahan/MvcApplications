@@ -5,7 +5,7 @@
 <html>
 <head runat="server">
     <meta name="viewport" content="width=device-width" />
-    <title></title>
+    <title>test </title>
 </head>
 <body>
     <div>

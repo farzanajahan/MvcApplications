@@ -4,25 +4,237 @@
 <html lang="en">
 <head runat="server">
     <title><%: Page.Title %> - USF Health</title>       
+    <!-- END_REMOVE|htmlTitle  -->
+    <!-- BEGIN_REMOVE|metaTags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="CODE_LANGUAGE" content="C#">
+    <meta name="vs_defaultClientScript" content="JavaScript">
+    <meta name="vs_targetSchema" content="//schemas.microsoft.com/intellisense/ie5">
+    <!-- END_REMOVE|metaTags -->
+
+    <link rel="stylesheet" href="/styles/health.css">
+    <link rel="stylesheet" href="/styles/print.css" media="print">
+    <link rel="stylesheet" href="/styles/academic.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+    <link rel="stylesheet" href="/styles/root-elements.css">
+    <!-- BEGIN_REMOVE|customCss  -->
+    <link rel="stylesheet" href="/custom apps/academic/styles/academic-custom-apps-styles.css">
+    <link rel="stylesheet" href="/custom apps/jquery/mbMenu/styles/mbMenu_usfHealth.css">
+    <link rel="stylesheet" href="/custom apps/jquery/easyslides/easySlides.default.min.css">
+    <link rel="stylesheet" href="/custom apps/jquery/accordion-1.0/css/accordion.css">
+    <link rel="stylesheet" href="/styles/mcom-master.css">
+    <!-- END_REMOVE|customCss  -->
+
+
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script>
+    <script type="text/javascript">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-4198073-1', 'auto');
+                ga('require', 'displayfeatures');
+                ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript" src="/resources/scripts/HealthIS.Apps.Util.js"></script>
+    <!-- BEGIN_REMOVE|customJS  -->
+    <script type="text/javascript" src="/custom apps/jquery/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="/custom apps/jquery/modernizr.js"></script>
+    <script type="text/javascript" src="/custom apps/jquery/swfobject.js"></script>
+    <script type="text/javascript" src="/custom apps/jquery/mbmenu/mbMenu.js"></script>
+    <script type="text/javascript" src="/custom apps/jquery/easyslides/jquery.easyslides.min.v1.1.js"></script>
+    <script type="text/javascript" src="/custom apps/jquery/accordion-1.0/scripts/accordion.js"></script>    
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
     <style>
         .bordered {border-style:dotted;}
     </style>
 </head>
 <body>
-    <header class="bordered">
-        <div class="content-wrapper">          
-            <h1>USF Health Global Departments</h1>
-            <asp:ContentPlaceHolder runat="server" ID="HeaderContent" />
-        </div>
-    </header>
+        
+        <script type="text/javascript" src="/scripts/jQuery.noconflict.js"></script>
+
+        <!--**** START - Top Level Header ****-->
+        <header id="health-header" role="banner">
+            <div class="container block-center" id="health-header-inner">
+                <asp:ContentPlaceHolder runat="server" ID="HeaderContent" />
+                <nav class="health-links menu-hidden">
+                    <button id="health-menu-toggle" class="text-hide icon-reorder">Menu</button>
+                    <ul class="clearfix">
+                        <li><a href="http://health.usf.edu/news.html">News</a></li>
+                        <li><a href="http://health.usf.edu/education.html">Education</a></li>
+                        <li><a href="http://health.usf.edu/research/home.html">Research</a></li>
+                        <li><a href="http://health.usf.edu/doctors/">Patient Care</a></li>
+                    </ul>
+                </nav>
+                <nav class="usf-links">
+                    <ul class="clearfix">
+                        <li><a href="http://health.usf.edu"><i class="icon-home">&nbsp;</i>USF Health</a></li>
+                        <li><a href="http://www.usf.edu">USF</a></li>
+                        <li><a href="http://search.usf.edu/search?btnG=USF+Health+Search&amp;access=p&amp;btng=Search&amp;client=health&amp;proxystylesheet=health&amp;output=xml_no_dtd&amp;sort=date%3AD%3AL%3Ad1&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;site=health">Search</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <!--**** END - Top Level Header ****-->
+        <!--**** START - MCOM Master Header ****-->
+        <header class="container block-center" id="dept-header" role="banner">
+            <asp:ContentPlaceHolder runat="server" ID="HeadContent2" />
+            <a id="health-logo" class="text-hide" href="http://health.usf.edu">USF Health</a>
+            <h4>USF GLOBAL DEPARTMENTS</h4>
+            <div class="template-options col-md-5" style="text-align: center; height: 70px; overflow: hidden; padding: 0">
+                <span class="custom-right-header">
+
+                </span>
+                
+            </div>
+        </header>
     <div id="body" class="bordered">
         <section class="content-wrapper main-content clear-fix">
             <asp:ContentPlaceHolder runat="server" ID="MainContent" />
         </section>
     </div>
-    <footer class="bordered">
+   <footer role="contentinfo" class="dept-footer">
         <asp:ContentPlaceHolder runat="server" ID="FooterContent" />
-    </footer>    
+            <div class="container-dept-footer block-center">
+                <div itemscope="" itemtype="//schema.org/CollegeOrUniversity">
+                    <div class="col-md-4 responsive-footer-main">
+                        <section class="vCard">
+                            <img alt="University of South Florida" src="/images/usf-wordmark-v2.png">
+                            <h3><span itemprop="name"></span></h3>
+                            <div itemprop="address" itemscope="" itemtype="//schema.org/PostalAddress">
+                                <p><span itemprop="streetAddress"><br></span></p>
+                            </div>
+                            <p>
+                            </p>
+                            <div class="academic-footer-social">
+                                <div class="social-icons-small">
+                                    <a href="https://www.facebook.com/usfhealth" target="_blank"><em class="icon-facebook"></em></a>
+                                    <a href="https://twitter.com/USFHealth" target="_blank"><em class="icon-twitter"></em></a>
+                                    <a href="https://www.youtube.com/user/usfhealth" target="_blank"><em class="icon-youtube-play"></em></a>
+                                    <a href="https://www.pinterest.com/usfhealthonline/" target="_blank"><em class="icon-pinterest"></em></a>
+                                    <a href="https://www.instagram.com/usfhealth/" target="_blank"><em class="icon-instagram"></em></a>
+                                    <a href="https://hscweb3.hsc.usf.edu/" target="_blank"><em class="icon-rss"></em></a>
+                                </div>
+                            </div>
+                        </section>
+                        <div class="credits">
+                            <a class="powered" href="http://health.usf.edu/is">Powered By USF Information Technology</a>
+                        </div>
+                        <span class="modified">This page was last modified on: 08/09/2017</span>
+                    </div>
+                    <div class="col-md-2 responsive-footer">
+                        <nav>
+                            <h3>USF Health</h3>
+                            <ul>
+                                <li><a href="/about">About</a></li>
+                                <li><a href="/~/media/Files/USFHealthFactSheet.ashx?la=en" target="_blank">USF Health Fact Sheet</a></li>
+                                <li><a href="/VP/leadership">Leadership</a></li>
+                                <li><a href="http://regulationspolicies.usf.edu/regulations-and-policies/regulations-policies-procedures.asp" target="_blank">Regulations &amp; Policies</a></li>
+                                <li><a href="http://hscweb3.hsc.usf.edu/health/now/?p=6237">Comm. Engagement</a></li>
+                                <li><a href="/international">International Programs</a></li>
+                                <li><a href="/publicaffairs">Media/Communications</a></li>
+                                <li><a href="/maps_directions">Maps/Directions</a></li>
+                                <li><a href="/giving/">Giving</a></li>
+                                <li><a href="http://hscweb3.hsc.usf.edu/calendar/index.php?calendar=1&amp;v=m">Calendars</a></li>
+                                <li><a href="/publicaffairs/logos_templates">Brand Standards</a></li>
+                                <li><a href="/25live">25 Live</a></li>
+                                <li><a href="http://cloudmail.health.usf.edu" target="_blank">Web E-mail</a></li>
+                                <li><a href="/gwep">Geriatric Workforce Enhancement Program</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-md-2 responsive-footer">
+                        <nav>
+                            <h3>Education</h3>
+                            <h5>Colleges</h5>
+                            <ul>
+                                <li><a href="/medicine">Medicine</a></li>
+                                <li><a href="/nursing">Nursing</a></li>
+                                <li><a href="/publichealth/">Public Health</a></li>
+                                <li><a href="/pharmacy">Pharmacy</a></li>
+                            </ul>
+                            <h5>Schools</h5>
+                            <ul>
+                                <li><a href="/medicine/dpt">Physical Therapy</a></li>
+                                <li><a href="/medicine/graduatestudies">Biomedical Sciences</a></li>
+                            </ul>
+                            <h5>More</h5>
+                            <ul>
+                                <li><a href="/shimberg-library">Shimberg Library</a></li>
+                                <li><a href="/alumni">Alumni</a></li>
+                                <li><a href="http://www.cme.hsc.usf.edu/" target="_blank">Cont. Prof. Development</a></li>
+                                <li><a href="/ahec">AHEC</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-md-2 responsive-footer">
+                        <nav>
+                            <h3>Research</h3>
+                            <ul>
+                                <li><a href="/research">USF Health</a></li>
+                                <li><a href="/medicine/research">Medicine</a></li>
+                                <li><a href="/nursing/research">Nursing</a></li>
+                                <li><a href="http://hscweb3.hsc.usf.edu/health/publichealth/news/research-home">Public Health</a></li>
+                                <li><a href="/pharmacy/research">Pharmacy</a></li>
+                            </ul>
+                            <h5>More</h5>
+                            <ul>
+                                <li><a href="/medicine/research/ocr">Clinical Research</a></li>
+                                <li><a href="http://hsccf.hsc.usf.edu/researchdirectory/directorysearch/search.cfm">Research Directory</a></li>
+                                <li><a href="http://www.centerwatch.com/UniversityOfSouthFlorida" target="_blank">Clinical Studies</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="col-md-2 responsive-footer">
+                        <nav>
+                            <h3>Healthcare</h3>
+                            <h5>Healthcare</h5>
+                            <ul>
+                                <li><a href="/doctors">Doctors of USF Health</a></li>
+                            </ul>
+                            <h5>Service</h5>
+                            <ul>
+                                <li><a href="/admin/hr">Human Resources</a></li>
+                                <li><a href="/is">Information Systems</a></li>
+                                <li><a href="/pio">Professional Integrity</a></li>
+                                <li><a href="/facultyaffairs">Faculty Affairs</a></li>
+                                <li><a href="/ofm">Facilities Management</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="dept-footer-bottom block-center">
+            <div class="container-dept-footer bottom-section">
+                <h2><strong>USF Health:</strong> To envision and implement <span>the future of health.</span></h2>
+            </div>
+        </div>
+
+
+        <!-- Start Javascript External Links -->
+        <script src="/scripts/modernizr.js"></script>
+        <!-- BEGIN_REPLACE|jquery -->
+        <script>
+            window.jQuery || document.write('<script src="/scripts/jquery.min.js"><\/script>')
+        </script>
+        <!-- END_REPLACE|jquery -->
+
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+        <script src="/scripts/template.min.js?v=1"></script>
+
+        <!-- BEGIN_REPLACE|customJS  -->
+        <script src="/scripts/plugins.min.js?v=5"></script>
+
+        <!-- Call global JS for components' event -->
+
+        <script type="text/javascript" src="/resources/scripts/jsAccordion.js"></script>
+  
 </body>
 </html>

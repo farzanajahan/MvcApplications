@@ -61,6 +61,9 @@
     <EmbeddedResource Include="departments.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
+    <None Include="custom apps\academic\less\academic-custom-apps-styles.less" />
+    <None Include="custom apps\jquery\accordion-1.0\images\Thumbs.db" />
+    <None Include="custom apps\jquery\mbmenu\images\Thumbs.db" />
     <None Include="packages.config" />
     <EmbeddedResource Include="MasterPage.Master">
       <SubType>ASPXCodeBehind</SubType>
@@ -68,6 +71,60 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="custom apps\academic\styles\academic-custom-apps-styles.css" />
+    <Content Include="custom apps\jquery\accordion-1.0\css\accordion.css" />
+    <Content Include="custom apps\jquery\accordion-1.0\images\arrow.png" />
+    <Content Include="custom apps\jquery\accordion-1.0\scripts\accordion.js" />
+    <Content Include="custom apps\jquery\easyslides\bg-backup.png" />
+    <Content Include="custom apps\jquery\easyslides\bg.png" />
+    <Content Include="custom apps\jquery\easyslides\easySlides.default.min.css" />
+    <Content Include="custom apps\jquery\easyslides\jquery.easyslides.min.v1.1.js" />
+    <Content Include="custom apps\jquery\jquery-1.7.2.min.js" />
+    <Content Include="custom apps\jquery\mbmenu\images\bar.png" />
+    <Content Include="custom apps\jquery\mbmenu\images\bgnd_sel_2.jpg" />
+    <Content Include="custom apps\jquery\mbmenu\images\bgnd_sel_4.png" />
+    <Content Include="custom apps\jquery\mbmenu\images\box_menu_over.png" />
+    <Content Include="custom apps\jquery\mbmenu\images\box_top-2.png" />
+    <Content Include="custom apps\jquery\mbmenu\images\box_top.png" />
+    <Content Include="custom apps\jquery\mbmenu\images\menuArrow.gif" />
+    <Content Include="custom apps\jquery\mbmenu\images\menuArrow_w.gif" />
+    <Content Include="custom apps\jquery\mbmenu\mbMenu.js" />
+    <Content Include="custom apps\jquery\mbmenu\mbMenu_pharmacy.css" />
+    <Content Include="custom apps\jquery\mbmenu\mbMenu_usfHealth.css" />
+    <Content Include="custom apps\jquery\modernizr.js" />
+    <Content Include="custom apps\jquery\swfobject.js" />
+    <Content Include="images\health_logo_2011.jpg" />
+    <Content Include="images\usf-wordmark.png" />
+    <Content Include="Scripts\HealthIS.Apps.Util.js" />
+    <Content Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.noconflict.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\knockout-2.2.0.debug.js" />
+    <Content Include="Scripts\knockout-2.2.0.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\modernizr.js" />
+    <Content Include="Scripts\plugins.min.js" />
+    <Content Include="Scripts\template.min.js" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="styles\academic.css" />
+    <Content Include="styles\health.css" />
+    <Content Include="styles\HealthIS.Apps.Util.js" />
+    <Content Include="styles\jsAccordion.js" />
+    <Content Include="styles\mcom-master.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

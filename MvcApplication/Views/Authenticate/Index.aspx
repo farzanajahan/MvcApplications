@@ -1,13 +1,9 @@
-﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage" %>
+﻿<%@ Page Language="C#" Inherits="MvcApplication.Views.Authenticate.Index"  CodeBehind="~/Views/Authenticate/Index.aspx.cs" %>
 
-<!DOCTYPE html>
 
-<html>
-<head runat="server">
-    <meta name="viewport" content="width=device-width" />
-    <title>test </title>
-</head>
-<body>
+<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
+
+    <fieldset>
     <div>
     <form method="post" action="<%=Url.Action("logon", "authenticate") %>">
         User ID:  <input type="text" name="userId" /><br />
@@ -15,5 +11,6 @@
         <input type="submit" value="Log On" />
     </form>
     </div>
-</body>
-</html>
+</fieldset>
+
+</asp:Content>
